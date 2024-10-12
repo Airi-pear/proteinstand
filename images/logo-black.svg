@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 690.21 665.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: VDL-LogoJrBlack-Black-83pv-RKSJ-H, VDL-LogoJrBlack;
+        font-size: 74px;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <g>
+      <path class="cls-1" d="M246.18,219.81s122.69-20.79,236.96,45.53c114.27,66.32,155.08-17.85,181.8,100.43,26.72,118.29-259.32,181.25-357.96,197.48-98.65,16.23-225.51-20.53-234.53-105.75-9.02-85.22,28.33-202.47,173.74-237.69Z"/>
+      <g>
+        <text class="cls-4" transform="translate(9.68 433.33) rotate(-6.16) scale(1.38)"><tspan x="0" y="0">プ</tspan></text>
+        <text class="cls-2" transform="translate(106.16 417.74) rotate(-6.16)"><tspan class="cls-11" x="0" y="0">ロ</tspan><tspan class="cls-10" x="71.48" y=".42">テ</tspan><tspan class="cls-8" x="144.37" y="-.53">イ</tspan><tspan class="cls-9" x="216.67" y="-2.44">ン</tspan><tspan class="cls-12" x="289.56" y="-3.74">ス</tspan><tspan x="360.97" y="-4.99">タ</tspan><tspan x="434.97" y="-5.66">ンド</tspan></text>
+        <text class="cls-3" transform="translate(241.9 510.62) rotate(-6.16) scale(1.22)"><tspan x="0" y="0">グ</tspan></text>
+        <text class="cls-2" transform="translate(329.34 501.08) rotate(-6.16)"><tspan class="cls-5" x="0" y="0">リ</tspan><tspan class="cls-7" x="69.19" y="-3.99">フ</tspan><tspan class="cls-6" x="138.6" y="-4.6">ォ</tspan><tspan x="207.27" y="-6.32">ン</tspan></text>
+      </g>
+      <image width="1541" height="1640" transform="translate(243.72) scale(.26)" xlink:href="griffon.png"/>
+    </g>
+  </g>
+</svg>
