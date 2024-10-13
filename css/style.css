@@ -264,9 +264,25 @@ background-repeat: no-repeat,no-repeat;
         width: 310px;
         margin: 0 auto -50px;
     position: relative;
+  
 }
-
-
+#chika1,#chika2{
+    position: absolute;
+    width:62px;
+    animation:  rotate 10s linear infinite;
+}
+#chika1{
+       top: 116px;
+    left: -20px;
+}
+#chika2{
+       right: -4px;
+    top: 187px;
+}
+#logo{
+      z-index: 1;
+    position: relative;
+}
 
 .keyvisual__scroll{
  width: calc((80% - 370px) / 2);
@@ -335,4 +351,7 @@ nav a:hover {
     nav,.keyvisual__scroll{
         display:block; 
     }
+    #chika1,#chika2{
+    animation: none;
+}
 }
